@@ -1,2 +1,3 @@
-	name: everping
-	markdown: kramdown
+name: everping
+markdown: redcarpet
+pygments: true
